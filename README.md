@@ -2,4 +2,4 @@
 
 <p>The list are compiled from IANA.</p>
 
-<p>Available in CSV and JSON.</p>
+<p>Available in <a href="https://github.com/khrlzhfr/whois-servers/blob/master/whois-servers.csv">CSV</a> and <a href="https://github.com/khrlzhfr/whois-servers/blob/master/whois-servers.json">JSON</a>.</p>
