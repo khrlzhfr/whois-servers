@@ -230,7 +230,7 @@ cba,whois.nic.cba,generic,cba,COMMONWEALTH BANK OF AUSTRALIA
 cbn,whois.nic.cbn,generic,cbn,"The Christian Broadcasting Network, Inc."
 cbre,whois.nic.cbre,generic,cbre,"CBRE, Inc."
 cbs,whois.nic.cbs,generic,cbs,CBS Domains Inc.
-cc,ccwhois.internic.net,country-code,cc,eNIC Cocos (Keeling) Islands Pty. Ltd. d/b/a Island Internet Services
+cc,ccwhois.verisign-grs.com,country-code,cc,eNIC Cocos (Keeling) Islands Pty. Ltd. d/b/a Island Internet Services
 cd,,country-code,cd,Office Congolais des Postes et Télécommunications - OCPT
 ceb,whois.nic.ceb,generic,ceb,The Corporate Executive Board Company
 center,whois.donuts.co,generic,center,"Binky Moon, LLC"
@@ -280,7 +280,7 @@ codes,whois.donuts.co,generic,codes,"Binky Moon, LLC"
 coffee,whois.donuts.co,generic,coffee,"Binky Moon, LLC"
 college,whois.nic.college,generic,college,XYZ.COM LLC
 cologne,whois.nic.cologne,generic,cologne,NetCologne Gesellschaft für Telekommunikation mbH
-com,whois.internic.net,generic,com,VeriSign Global Registry Services
+com,whois.verisign-grs.com,generic,com,VeriSign Global Registry Services
 comcast,whois.nic.comcast,generic,comcast,"Comcast IP Holdings I, LLC"
 commbank,whois.nic.commbank,generic,commbank,COMMONWEALTH BANK OF AUSTRALIA
 community,whois.donuts.co,generic,community,"Binky Moon, LLC"
@@ -881,7 +881,7 @@ nba,whois.nic.nba,generic,nba,"NBA REGISTRY, LLC"
 nc,whois.nc,country-code,nc,Office des Postes et Telecommunications
 ne,,country-code,ne,SONITEL
 nec,whois.nic.nec,generic,nec,NEC Corporation
-net,whois.internic.net,generic,net,VeriSign Global Registry Services
+net,whois.verisign-grs.com,generic,net,VeriSign Global Registry Services
 netbank,whois.nic.netbank,generic,netbank,COMMONWEALTH BANK OF AUSTRALIA
 netflix,whois.nic.netflix,generic,netflix,"Netflix, Inc."
 network,whois.donuts.co,generic,network,"Binky Moon, LLC"
@@ -1289,7 +1289,7 @@ tube,whois.nic.tube,generic,tube,Latin American Telecom LLC
 tui,whois.nic.tui,generic,tui,TUI AG
 tunes,whois.nic.tunes,generic,tunes,"Amazon Registry Services, Inc."
 tushu,whois.nic.tushu,generic,tushu,"Amazon Registry Services, Inc."
-tv,tvwhois.internic.net,country-code,tv,Ministry of Finance and Tourism
+tv,tvwhois.verisign-grs.com,country-code,tv,Ministry of Finance and Tourism
 tvs,whois.nic.tvs,generic,tvs,T V SUNDRAM IYENGAR & SONS PRIVATE LIMITED
 tw,whois.twnic.net.tw,country-code,tw,Taiwan Network Information Center (TWNIC)
 tz,whois.tznic.or.tz,country-code,tz,Tanzania Network Information Centre (tzNIC)
