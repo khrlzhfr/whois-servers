@@ -1386,7 +1386,7 @@
     "MANAGER": "CBS Domains Inc."
   },
   "cc": {
-    "WHOIS": "ccwhois.verisign-grs.com",
+    "WHOIS": "ccwhois.internic.net",
     "TYPE": "country-code",
     "NATIVE": "cc",
     "MANAGER": "eNIC Cocos (Keeling) Islands Pty. Ltd. d/b/a Island Internet Services"
@@ -1686,7 +1686,7 @@
     "MANAGER": "NetCologne Gesellschaft für Telekommunikation mbH"
   },
   "com": {
-    "WHOIS": "whois.verisign-grs.com",
+    "WHOIS": "whois.internic.net",
     "TYPE": "generic",
     "NATIVE": "com",
     "MANAGER": "VeriSign Global Registry Services"
@@ -5292,7 +5292,7 @@
     "MANAGER": "NEC Corporation"
   },
   "net": {
-    "WHOIS": "whois.verisign-grs.com",
+    "WHOIS": "whois.internic.net",
     "TYPE": "generic",
     "NATIVE": "net",
     "MANAGER": "VeriSign Global Registry Services"
@@ -7740,7 +7740,7 @@
     "MANAGER": "Amazon Registry Services, Inc."
   },
   "tv": {
-    "WHOIS": "tvwhois.verisign-grs.com",
+    "WHOIS": "tvwhois.internic.net",
     "TYPE": "country-code",
     "NATIVE": "tv",
     "MANAGER": "Ministry of Finance and Tourism"
