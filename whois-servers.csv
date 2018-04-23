@@ -1436,43 +1436,43 @@ xn--90a3ac,whois.rnids.rs,country-code,срб,Serbian National Internet Domain R
 xn--j1amh,whois.dotukr.com,country-code,укр,"Ukrainian Network Information Centre (UANIC), Inc."
 xn--node,whois.itdc.ge,country-code,გე,Information Technologies Development Center (ITDC)
 xn--y9a3aq,whois.amnic.net,country-code,հայ,"""Internet Society"" Non-governmental Organization"
-xn--deba0ad6164aba,,test,‏טעסט‎,Internet Assigned Numbers Authority
-xn--9dbq2a464vba,,generic,‏קום‎,VeriSign Sarl
-xn--hgbk6aj7f53bba2482cba,,test,‏آزمایشی‎,Internet Assigned Numbers Authority
-xn--kgbechtv1647bba,,test,‏إختبار‎,Internet Assigned Numbers Authority
-xn--mgbca7dzdo6827bba,,generic,‏ابوظبي‎,Abu Dhabi Systems and Information Centre
-xn--mgbaakc7dvfs41vba,,generic,‏اتصالات‎,Emirates Telecommunications Corporation (trading as Etisalat)
-xn--mgba3a3ejt0037bba,,generic,‏ارامكو‎,Aramco Services Company
-xn--mgbayh7gpa4137bba,,country-code,‏الاردن‎,National Information Technology Center (NITC)
-xn--lgbbat1ad8jn01uba,,country-code,‏الجزائر‎,CERIST
-xn--mgberp4a5d4ar9740dba,,country-code,‏السعودية‎,Communications and Information Technology Commission
-xn--mgba7c0bbn0a4883cba,,generic,‏العليان‎,Crescent Holding GmbH
-xn--mgbc0a9azcg4237bba,,country-code,‏المغرب‎,Agence Nationale de Réglementation des Télécommunications (ANRT)
-xn--mgbaam7a8h122rba,,country-code,‏امارات‎,Telecommunications Regulatory Authority (TRA)
-xn--mgba3a4f16ap62jba,,country-code,‏ایران‎,Institute for Research in Fundamental Sciences (IPM)
-xn--mgbbh1a0224aba,,country-code,‏بارت‎,National Internet eXchange of India
-xn--mgbab2bd6380bba,,generic,‏بازار‎,CORE Association
-xn--mgbbh1a71ej29iba,,country-code,‏بھارت‎,National Internet Exchange of India
-xn--ngbe9e0a6904aba,,generic,‏بيتك‎,Kuwait Finance House
-xn--mgbai9azgqp6jp70pba,,country-code,‏پاکستان‎,National Telecommunication Corporation
-xn--mgbgu82an40iba,,country-code,‏ڀارت‎,National Internet eXchange of India
-xn--pgbs0dh6014aba,,country-code,‏تونس‎,Agence Tunisienne d'Internet
-xn--mgbpl2fh5070bba,,country-code,‏سودان‎,Sudan Internet Society
-xn--ogbpf8fl1960bba,,country-code,‏سورية‎,National Agency for Network Services (NANS)
-xn--ngbc5azdt55qba,,generic,‏شبكة‎,International Domain Registry Pty. Ltd.
-xn--mgbtx2b025wba,,country-code,‏عراق‎,Communications and Media Commission (CMC)
-xn--ngbrx865xba,,generic,‏عرب‎,League of Arab States
-xn--mgb9awbf4114aba,,country-code,‏عمان‎,Telecommunications Regulatory Authority (TRA)
-xn--ygbi2ammx7827bba,,country-code,‏فلسطين‎,Ministry of Telecom & Information Technology (MTIT)
-xn--wgbl6a431tba,,country-code,‏قطر‎,Communications Regulatory Authority
-xn--mgbi4ecexp3883cba,,generic,‏كاثوليك‎,Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)
-xn--fhbei705xba,,generic,‏كوم‎,VeriSign Sarl
-xn--wgbh1cv37oba,,country-code,‏مصر‎,National Telecommunication Regulatory Authority - NTRA
-xn--mgbx4cd0ab7827bba,,country-code,‏مليسيا‎,MYNIC Berhad
-xn--mgbb9fbpob2883cba,,generic,‏موبايلي‎,GreenTech Consultancy Company W.L.L.
-xn--mgbah1a3hjkrd5707dba,,country-code,‏موريتانيا‎,Not assigned
-xn--4gbrim6014aba,,generic,‏موقع‎,Suhub Electronic Establishment
-xn--mgbt3dhd8070bba,,generic,‏همراه‎,Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
+xn--deba0ad,,test,‏טעסט‎,Internet Assigned Numbers Authority
+xn--9dbq2a,whois.nic.xn--9dbq2a,generic,‏קום‎,VeriSign Sarl
+xn--hgbk6aj7f53bba,,test,‏آزمایشی‎,Internet Assigned Numbers Authority
+xn--kgbechtv,,test,‏إختبار‎,Internet Assigned Numbers Authority
+xn--mgbca7dzdo,whois.nic.xn--mgbca7dzdo,generic,‏ابوظبي‎,Abu Dhabi Systems and Information Centre
+xn--mgbaakc7dvf,whois.centralnic.com,generic,‏اتصالات‎,Emirates Telecommunications Corporation (trading as Etisalat)
+xn--mgba3a3ejt,,generic,‏ارامكو‎,Aramco Services Company
+xn--mgbayh7gpa,,country-code,‏الاردن‎,National Information Technology Center (NITC)
+xn--lgbbat1ad8j,whois.nic.dz,country-code,‏الجزائر‎,CERIST
+xn--mgberp4a5d4ar,whois.nic.net.sa,country-code,‏السعودية‎,Communications and Information Technology Commission
+xn--mgba7c0bbn0a,whois.nic.xn--mgba7c0bbn0a,generic,‏العليان‎,Crescent Holding GmbH
+xn--mgbc0a9azcg,,country-code,‏المغرب‎,Agence Nationale de Réglementation des Télécommunications (ANRT)
+xn--mgbaam7a8h,whois.aeda.net.ae,country-code,‏امارات‎,Telecommunications Regulatory Authority (TRA)
+xn--mgba3a4f16a,whois.nic.ir,country-code,‏ایران‎,Institute for Research in Fundamental Sciences (IPM)
+xn--mgbbh1a,,country-code,‏بارت‎,National Internet eXchange of India
+xn--mgbab2bd,whois.bazaar.coreregistry.net,generic,‏بازار‎,CORE Association
+xn--mgbbh1a71e,,country-code,‏بھارت‎,National Internet Exchange of India
+xn--ngbe9e0a,whois.nic.xn--ngbe9e0a,generic,‏بيتك‎,Kuwait Finance House
+xn--mgbai9azgqp6j,,country-code,‏پاکستان‎,National Telecommunication Corporation
+xn--mgbgu82a,,country-code,‏ڀارت‎,National Internet eXchange of India
+xn--pgbs0dh,,country-code,‏تونس‎,Agence Tunisienne d'Internet
+xn--mgbpl2fh,,country-code,‏سودان‎,Sudan Internet Society
+xn--ogbpf8fl,whois.tld.sy,country-code,‏سورية‎,National Agency for Network Services (NANS)
+xn--ngbc5azd,whois.nic.xn--ngbc5azd,generic,‏شبكة‎,International Domain Registry Pty. Ltd.
+xn--mgbtx2b,whois.cmc.iq,country-code,‏عراق‎,Communications and Media Commission (CMC)
+xn--ngbrx,whois.nic.xn--ngbrx,generic,‏عرب‎,League of Arab States
+xn--mgb9awbf,whois.registry.om,country-code,‏عمان‎,Telecommunications Regulatory Authority (TRA)
+xn--ygbi2ammx,whois.pnina.ps,country-code,‏فلسطين‎,Ministry of Telecom & Information Technology (MTIT)
+xn--wgbl6a,whois.registry.qa,country-code,‏قطر‎,Communications Regulatory Authority
+xn--mgbi4ecexp,whois.aridnrs.net.au,generic,‏كاثوليك‎,Pontificium Consilium de Comunicationibus Socialibus (PCCS) (Pontifical Council for Social Communication)
+xn--fhbei,whois.nic.xn--fhbei,generic,‏كوم‎,VeriSign Sarl
+xn--wgbh1c,,country-code,‏مصر‎,National Telecommunication Regulatory Authority - NTRA
+xn--mgbx4cd0ab,whois.mynic.my,country-code,‏مليسيا‎,MYNIC Berhad
+xn--mgbb9fbpob,,generic,‏موبايلي‎,GreenTech Consultancy Company W.L.L.
+xn--mgbah1a3hjkrd,,country-code,‏موريتانيا‎,Not assigned
+xn--4gbrim,whois.afilias-srs.net,generic,‏موقع‎,Suhub Electronic Establishment
+xn--mgbt3dhd,whois.agitsys.net,generic,‏همراه‎,Asia Green IT System Bilgisayar San. ve Tic. Ltd. Sti.
 xn--11b4c3d,whois.nic.xn--11b4c3d,generic,कॉम,VeriSign Sarl
 xn--c2br7g,whois.nic.xn--c2br7g,generic,नेट,VeriSign Sarl
 xn--11b5bs3a9aj6g,,test,परीक्षा,Internet Assigned Numbers Authority
